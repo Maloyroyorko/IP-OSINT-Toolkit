@@ -3,4 +3,6 @@ IP OSINT Toolkit is an open-source project made by Maloy Roy Orko to help in our
 
 Demo: http://ip-osint.ct.ws/
 
+Blogs: https://www.websecurityinsights.my.id/2025/09/ip-osint-toolkit-open-source-ip-address.html?m=1
+
 ==+==Coded By Maloy Roy Orko==+==
